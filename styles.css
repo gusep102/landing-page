@@ -1,0 +1,58 @@
+/* stylesheets */
+
+/* box outline delete before publish */
+
+* {
+    border-style: dashed;
+    border-color: red;
+}
+
+.all-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar-container {
+    display: flex;
+}
+
+.header-links-list{
+    display: flex;
+}
+
+.intro-container {
+    display: flex;
+}
+
+.random-info-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* from prev ex */
+vertical-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+  }
+  
+  .horizontal-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 52px;
+  }
+
+
+/* end */
+
+.qoute-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.signup-container {
+    display: flex;
+}
